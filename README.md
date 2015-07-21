@@ -1,5 +1,5 @@
-.NET Hello World on on OS X
-===========================
+.NET Hello World on OS X
+========================
 
 ## Install
 
